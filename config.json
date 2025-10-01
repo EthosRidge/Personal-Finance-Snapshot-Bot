@@ -1,0 +1,27 @@
+{
+  "monthlyIncome": 4000.00,
+  "watchFolder": "_inbox",
+  "processedFolder": "_processed",
+  "recurringPayments": [
+    {
+      "name": "Rent",
+      "amount": 1500.00
+    },
+    {
+      "name": "Car Insurance",
+      "amount": 120.50
+    },
+    {
+      "name": "Internet",
+      "amount": 79.99
+    },
+    {
+      "name": "Spotify",
+      "amount": 10.99
+    },
+    {
+      "name": "Netflix",
+      "amount": 15.49
+    }
+  ]
+}
