@@ -14,10 +14,10 @@ I made a deliberate choice **not** to use complex APIs to read my email directly
 
 ### Key Features
 
-*   ⚡️ **Instant Answer:** Run one command and get the exact number you're looking for. No logins, no waiting, no distractions.
-*   🔒 **Private & Secure by Design:** Your financial data never leaves your computer. The bot doesn't connect to your bank, email, or any cloud service.
-*   ⚙️ **Simple Configuration:** All your income and recurring bills are stored in a plain `config.json` file. Updating your rent or adding a new subscription is as easy as editing a line of text.
-*   🤖 **Real-World Automation:** This is a practical example of "trigger-based automation"—a core concept in modern IT and DevOps, applied to a personal, everyday problem.
+*   **Instant Answer:** Run one command and get the exact number you're looking for. No logins, no waiting, no distractions.
+*   **Private & Secure by Design:** Your financial data never leaves your computer. The bot doesn't connect to your bank, email, or any cloud service.
+*   **Simple Configuration:** All your income and recurring bills are stored in a plain `config.json` file. Updating your rent or adding a new subscription is as easy as editing a line of text.
+*   **Real-World Automation:** This is a practical example of "trigger-based automation"—a core concept in modern IT and DevOps, applied to a personal, everyday problem.
 
 This project was a fun way for me to apply my PowerShell scripting skills to make my own life easier. It's a testament to how a little bit of thoughtful automation can solve a real-world problem.
 
